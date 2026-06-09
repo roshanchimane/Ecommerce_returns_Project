@@ -8,7 +8,7 @@ The dataset includes order-level data with attributes like product name, order q
 customer information, region, and date. 
 Key Measures & KPIs:- Total Orders- Total Returns- Return Percentage- Category-wise and Region-wise return analysis- Monthly trend in returns
 Visualizations and Insights:- A KPI card showing total orders and returns- Bar and pie charts showing return percentages by category and region- Trend line visual for monthly return trends- Heatmap for product-level return frequency
-# Analytical Outcome:
+# Analytical Outcome: 
 Identified high-return categories and regions to improve quality control. The overall return rate was calculated
 and tracked over time to identify improvements or anomalies. 
 # Tools Used:-
