@@ -10,7 +10,7 @@ Key Measures & KPIs:- Total Orders- Total Returns- Return Percentage- Category-w
 Visualizations and Insights:- A KPI card showing total orders and returns- Bar and pie charts showing return percentages by category and region- Trend line visual for monthly return trends- Heatmap for product-level return frequency
 # Analytical Outcome:
 Identified high-return categories and regions to improve quality control. The overall return rate was calculated
-and tracked over time to identify improvements or anomalies.
+and tracked over time to identify improvements or anomalies. 
 # Tools Used:-
 - Power BI Desktop
 - DAX for calculated fields 
