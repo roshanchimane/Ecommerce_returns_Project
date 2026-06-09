@@ -3,7 +3,7 @@
 The objective of this dashboard is to analyze the performance of an e-commerce platform by evaluating key
 metrics such as order quantity, returns, and return rate. This provides insights into customer behavior,
 product issues, and helps optimize supply chain and logistics.
-# Dataset Summary:
+# Dataset Summary: 
 The dataset includes order-level data with attributes like product name, order quantity, return status,
 customer information, region, and date.
 Key Measures & KPIs:- Total Orders- Total Returns- Return Percentage- Category-wise and Region-wise return analysis- Monthly trend in returns
